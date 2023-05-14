@@ -121,6 +121,10 @@ body:hover{
         flex-direction: column;
         justify-content: space-between;
     }
+
+    .Teclado2{
+        border-bottom: 0px solid #000
+    }
     
     
 }
