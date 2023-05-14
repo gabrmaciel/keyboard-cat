@@ -103,6 +103,8 @@ body:hover{
 
     #TecladoMobile {
         display: block;
+        width: calc(100% + 20px);
+        margin-left: -10px;
     }
 
     #TecladoMobile .Box{
@@ -114,6 +116,7 @@ body:hover{
     }
 
     body{
+        overflow: hidden;
         display: flex;
         flex-direction: column;
         justify-content: space-between;
