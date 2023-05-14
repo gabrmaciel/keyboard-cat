@@ -89,6 +89,7 @@ body:hover{
     #Gato{
         width: 100%;
         height: auto;
+        transform: scale(0.8);
     }
 
     #Gato .box{
